@@ -4,6 +4,9 @@
 ## Project Overview
 This project is a prototype implementation of an **iOS Data Communication Layer** integrated with a **Flutter** application. The solution simulates data reception via a mocked USB communication layer using Apple's **External Accessory Framework (EAF)** and integrates seamlessly with Flutter using **Platform Channels**.
 
+## Voice Recordings
+Voice recordings are available in the attachments folder 
+
 ## Architecture
 The project follows **Domain-Driven Design (DDD)** and **Clean Architecture** principles to ensure scalability and maintainability.
 
